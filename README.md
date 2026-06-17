@@ -133,6 +133,6 @@ Training incorporates:
 
 ## Author
 
-**Varadraj Tarapure**
-Master of Artificial Intelligence
+**Varadraj Tarapure**<br>
+Master of Artificial Intelligence<br>
 RMIT University
